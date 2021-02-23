@@ -25,6 +25,6 @@ int main()
 			  cin.ignore(100,'\n');
 		   }
 	}while(!done);
-	cout<<"The number entered is "<<num<<endl;
+	cout<<"The number entered is  "<<num<<endl;
 system("pause");
 }
