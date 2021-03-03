@@ -20,7 +20,7 @@ int main()
 		}
 		   catch (int d)
 		   {
-              cout<<"Number only and must be between 50 to 100!!! "<<endl;
+              cout<<"Number only must be between 50 to 100!!! "<<endl;
 			  cin.clear();
 			  cin.ignore(100,'\n');
 		   }
